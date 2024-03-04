@@ -1,7 +1,5 @@
 *** Settings ***
 Library    RequestsLibrary
-Library    JSONLibrary
-Library    BuiltIn
 
 *** Variables ***
 ${BASE_URL}    http://localhost:3001
